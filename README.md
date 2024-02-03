@@ -19,7 +19,7 @@ Data Set: Creditcard_data.csv
 
 Outcome: comparison.csv
 
-# Sampling teechniques used
+# Sampling Techniques Used
 
 Random Sampling: Involves the random selection of samples from the population.
 Systematic Sampling: Entails selecting samples at regular intervals after a random start.
