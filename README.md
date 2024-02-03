@@ -15,16 +15,23 @@ Sampling emerges as a crucial method for extracting insights from a community by
 
 # Dataset and Outcomes
 
+
 Data Set: Creditcard_data.csv
 
 Outcome: comparison.csv
 
+
 # Sampling Techniques Used
 
+
 Random Sampling: Involves the random selection of samples from the population.
+
 Systematic Sampling: Entails selecting samples at regular intervals after a random start.
+
 Cluster Sampling: Involves randomly selecting clusters from the population.
+
 Stratified Sampling: Divides the population into subgroups based on specific criteria.
+
 Bootstrap Sampling: Utilizes resampling with replacement to create multiple samples from the original dataset.
 
 Following the creation of five distinct samples using these techniques, each sample underwent evaluation with five distinct models. The resulting accuracies of each model for a given sample are concisely presented in the table below:
